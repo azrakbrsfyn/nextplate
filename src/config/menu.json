@@ -5,12 +5,14 @@
       "url": "/"
     },
     {
-      "name": "About",
-      "url": "/about"
+      "name": "Blogs",
+      "url": "/blog",
+      "children": [],
+      "hasChildren": false
     },
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "About",
+      "url": "/about"
     },
     {
       "name": "Pages",
