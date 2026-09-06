@@ -25,13 +25,13 @@
     "blog_folder": "blog"
   },
   "announcement": {
-    "enable": true,
+    "enable": false,
     "content": "<span class='text-center block'>♥️ Loving Nextplate? <a class='underline' href='https://github.com/zeon-studio/nextplate' target='_blank' rel='noopener'>Please ⭐️ on Github</a></span>",
     "expire_days": 7
   },
   "params": {
     "contact_form_action": "#",
-    "copyright": "Designed And Developed by [Zeon Studio](https://zeon.studio)"
+    "copyright": "[Azriel Akbar Sofyan](https://zeon.studio)"
   },
   "navigation_button": {
     "enable": true,
