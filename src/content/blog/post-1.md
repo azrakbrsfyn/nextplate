@@ -1,5 +1,5 @@
 ---
-title: "How to build an Application with modern Technology (Edited)"
+title: "How to build an Application with modern Technology hehehe"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00.000Z
