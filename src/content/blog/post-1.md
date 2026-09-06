@@ -13,12 +13,15 @@ tags:
   - tailwind
 draft: false
 ---
+​
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+![](https://media.gettyimages.com/id/497008866/photo/cityscape-of-sydney-downtown-and-harbor-bridge.jpg?s=612x612\&w=0\&k=20\&c=VOY2Mnp-c6KUolFa34K-iRVVcuGwHcZEnqF8JEsABsk=)
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+​
 
-## Creative Design
+Suatu hari yang cerah di Sydney....
+
+## Beautiful Sydney
 
 Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 
