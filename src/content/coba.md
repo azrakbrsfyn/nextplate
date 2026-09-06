@@ -1,7 +1,7 @@
 ---
 title: Coba
 meta_title: ""
-description: ""
+description: "Ini adalah percobaan"
 date: ""
 image: ""
 categories: []
