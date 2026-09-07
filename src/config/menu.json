@@ -44,6 +44,11 @@
           "url": "/404"
         }
       ]
+    },
+    {
+      "name": "Portfolio",
+      "url": "/portfolio",
+      "hasChildren": false
     }
   ],
   "footer": [
