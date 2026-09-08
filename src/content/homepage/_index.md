@@ -2,9 +2,9 @@
 # Banner
 banner:
   title: Hi, My Name is Azriel Akbar Sofyan. The Tech Enthusiasm and Content Writer.
-  content: Welcome to my personal website. I'm actively write blogs and update my
+  content: Welcome to my personal website. I actively write blogs and update my
     portfolio that related into my work. Keep in touch with me to get some
-    updates mostly about tech, tips and tricks, and my adventure life.
+    updates mostly about tech, tips and tricks, and my adventure of life.
   image: /images/banner.png
   button:
     enable: false
