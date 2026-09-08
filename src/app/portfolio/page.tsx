@@ -11,8 +11,8 @@ export default function Portfolio() {
       <SeoMeta title="My Custom Page" />
       <section className="section">
         <div className="container">
-          <h1 className="text-h2">My Portfolio Page</h1>
-          <p>Custom React code goes here.</p>
+          <h1 className="text-h2">Coming soon!</h1>
+          <p>Still in work and will be updated soon...</p>
         </div>
       </section>
     </>
