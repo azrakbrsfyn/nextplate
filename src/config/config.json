@@ -8,7 +8,7 @@
     "logo": "/images/logo-azriel_copy(1).png",
     "logo_darkmode": "/images/logo-azriel-white.png",
     "logo_width": "150",
-    "logo_height": "27",
+    "logo_height": "150",
     "logo_text": "Azriel Akbar Sofyan"
   },
   "settings": {
@@ -58,5 +58,6 @@
     "generate_individual_md": false,
     "include": [],
     "exclude": []
-  }
+  },
+  "draft": false
 }
