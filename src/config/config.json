@@ -4,9 +4,9 @@
     "base_url": "https://nextplate.netlify.app",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_darkmode": "/images/logo-darkmode.png",
+    "favicon": "/images/logo-azriel.png",
+    "logo": "/images/logo-azriel_copy(1).png",
+    "logo_darkmode": "/images/logo-azriel-white.png",
     "logo_width": "150",
     "logo_height": "27",
     "logo_text": "Azriel Akbar Sofyan"
