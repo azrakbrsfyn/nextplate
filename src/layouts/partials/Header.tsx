@@ -163,7 +163,8 @@ const Header = () => {
             </button>
           )}
           <ThemeSwitcher className="mr-5" />
-          {navigation_button.enable && (
+          {/* Github Button */}
+          {/* {navigation_button.enable && (
             <Link
               className="btn btn-outline-primary btn-sm hidden lg:inline-block"
               href={navigation_button.link}
@@ -178,7 +179,8 @@ const Header = () => {
             >
               {navigation_button.label}
             </Link>
-          )}
+          )} */}
+          {/* Github Button */}
         </div>
       </nav>
     </header>
