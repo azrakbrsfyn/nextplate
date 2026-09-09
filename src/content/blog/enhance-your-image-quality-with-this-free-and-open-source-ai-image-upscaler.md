@@ -7,6 +7,7 @@ date: 2026-09-09T09:55:00.000Z
 image: "/images/deltaworks-ai-generated-7975586_1280.png"
 categories:
   - Digital Image
+  - Application
 author: "Azriel Akbar Sofyan"
 tags:
   - Artificial Intelligence
