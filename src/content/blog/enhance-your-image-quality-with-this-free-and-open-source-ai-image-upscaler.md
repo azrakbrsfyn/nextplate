@@ -46,10 +46,8 @@ If you have a number of images to being enhanced at once, you can use Upscayl ba
 
 Upscayl provides some models that you can choose based on your need. You can try these models to get best result of your images. But some of models can be run properly depend on your computer spesifications. The better model also need some times to wait for the result depend on computer spesification and image size. If you don’t have powerfull computer, you still can use Upscayl with the default model or you can try Upscayl Cloud.
 
-​
+## Download Upscayle
 
 You can try and download Upscayl from its official website here:
 
 ​[Download Upscayl for free](https://upscayl.org/download)​
-
-​
